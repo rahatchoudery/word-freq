@@ -138,7 +138,7 @@ int main ()
   string c;
   Node *T = NULL;
 
-  fin.open("proj04Test.txt"); //open the file
+  fin.open("test_text.txt"); //open the file
   
   if (fin.fail())
     {
